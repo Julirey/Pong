@@ -4,7 +4,7 @@ Pong is a single player game where two moving paddles bounce a ball back and for
 
 The purpose of this software is to serve a recreational program that teaches the functionality of game frameworks, player controlled elements, and collision physics. 
 
-[Software Demo Video](#)
+[Software Demo Video](https://www.youtube.com/watch?v=D2trotOO8Zk)
 
 ## Development Environment
 
